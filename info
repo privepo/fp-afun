@@ -1,0 +1,28 @@
+FP-AFUN [GIT] commit 07e82bc5: Update 20121217.
+
+
+Path  : git
+Date  : 2011-12-17 15:22:41 +0800
+Author: Eotect Nahn
+Commit: 07e82bc55f1d1c29d1ee47777feee44a1d522d1d
+
+    Update 20121217.
+
+
+
+ addons.sqlite       |  Bin 425984 -> 425984 bytes
+ cookies.sqlite      |  Bin 524288 -> 524288 bytes
+ dh-smart-names.rdf  | 1070 +++++++++++++++++++-------------------
+ extensions.ini      |    4 +-
+ formhistory.sqlite  |  Bin 133120 -> 133120 bytes
+ localstore.rdf      | 1427 +++++++++++++++++++++++++--------------------------
+ mimeTypes.rdf       |  219 +++++----
+ permissions.sqlite  |  Bin 2048 -> 2048 bytes
+ prefs.js            |   85 ++--
+ sessionstore.js     |    2 +-
+ signons.sqlite      |  Bin 101376 -> 102400 bytes
+ webappsstore.sqlite |  Bin 1204224 -> 1204224 bytes
+ 12 files changed, 1414 insertions(+), 1393 deletions(-)
+
+================================================================================
+
